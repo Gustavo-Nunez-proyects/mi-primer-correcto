@@ -3,7 +3,7 @@
 - un elemento de lista
 - otro elemento
 
-1. primer paso
+1. primer paso.
 
 
 | Comuna | Despachos |
