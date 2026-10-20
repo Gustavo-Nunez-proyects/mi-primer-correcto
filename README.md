@@ -4,7 +4,7 @@
 - otro elemento
 
 1. primer paso
-2. segundo paso
+
 
 | Comuna | Despachos |
 | --- | --- |
