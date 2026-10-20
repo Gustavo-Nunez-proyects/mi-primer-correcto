@@ -1,5 +1,4 @@
 #mi-primer-repositorio
-## Subtítulo
 
 - un elemento de lista
 - otro elemento
